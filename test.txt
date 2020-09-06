@@ -1,12 +1,2 @@
-testy
-:q
-qa!
-sd
-
-
-
-
-qweqw
-qwe
-
+:x
 
