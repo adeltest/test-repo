@@ -1,1 +1,9 @@
 github.com
+gitlab.com
+bitbucket.com
+google.com
+twitter.com
+facebook.com
+cloudflare.com
+twitch.tv
+amazon.com
