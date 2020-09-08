@@ -7,3 +7,11 @@ facebook.com
 cloudflare.com
 twitch.tv
 amazon.com
+moi.gov.sa
+moi.gov
+cia.gov
+nsa.gov
+nasa.gov
+i8.ae
+probot.io
+discord.com
